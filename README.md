@@ -6,7 +6,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-API-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![WebSockets](https://img.shields.io/badge/WebSockets-real--time-4A4A4A)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/)
-[![License](https://img.shields.io/badge/License-Project-blue)](https://github.com/Blood79/Civic-Behaviour-Monitoring-System)
+[![License](https://img.shields.io/badge/License-Project-blue)](https://github.com/a-ayushguptaaa76/Civic-Behaviour-Monitoring-System)
 
 ## 🎯 What it does
 
@@ -59,7 +59,7 @@ python -m venv venv
 **Windows**
 
 ```bash
-venv\Scripts\activate
+venv\\Scripts\\activate
 ```
 
 **macOS / Linux**
